@@ -1,0 +1,1 @@
+# PyInstaller demo for a Python application

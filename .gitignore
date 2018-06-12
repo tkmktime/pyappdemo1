@@ -1,0 +1,13 @@
+
+# pyinstaller spec
+*.spec
+
+# compiled python module
+*.pyc
+
+# setuptools distribution folder
+/dist/
+/build/
+
+# python egg metadata, regenerated from souce files by setuptools
+/*.egg-info
